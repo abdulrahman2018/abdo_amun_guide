@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "209639118977",
+    "project_id": "grad-c86ce",
+    "storage_bucket": "grad-c86ce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209639118977:android:095f5d0556ea79658b1580",
+        "android_client_info": {
+          "package_name": "com.example.amun_guide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeRKYPzpnIcGpnrYrC8nPW2JQxRl7hhOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

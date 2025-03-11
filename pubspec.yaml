@@ -1,0 +1,43 @@
+name: amun_guide
+description: A Flutter app showcasing popular places in Cairo & Giza.
+publish_to: 'none'
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  
+  flutter:
+    sdk: flutter
+  flutter_dotenv: ^5.2.1
+  google_fonts: ^6.1.0
+  path: ^1.9.0
+  sqflite: ^2.4.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/pyramids.jpg
+    - assets/images/museum.jpg
+    - assets/images/cairo_tower.jpg
+    - assets/icons/Eye-removebg-preview.png
+    - assets/icons/Pyramids-removebg-preview.png
+    - assets/images/Pyramids of Giza.png
+    - assets/images/Grand Egyptian Museum.png
+    - assets/images/pyramid_background.jpg
+    - assets/images/Azhar Mosque.png
+    - assets/images/Cairo Tower.png
+    - assets/images/Baron Empain Palace.png
+    - assets/images/Coptic Cairo.png
+    - assets/images/Crave Church.png
+    - assets/images/Citadel of Salah El-Dine.png
+    - assets/images/KHAN EL-KHALILI (ELMOEZ STREET).png
+    - assets/images/National Museum of Egyptian Civilization.png
+
+
+    
